@@ -1,4 +1,4 @@
 # Calculator
 Do simple calculation 
 
-URL: https://sukhdeepsukh589.github.io/Calculator/calculatorproject
+URL: https://sukhdeep3.github.io/Calculator/calculatorproject
